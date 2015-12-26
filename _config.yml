@@ -1,0 +1,28 @@
+name: 2anges
+favicon: null
+layout_spectrum: 0.25566048128530383
+typography_spectrum: 0.6933378749527037
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2694888561964035
+  lightness: 0.5013825949281454
+  saturation: 0.6692908916156739
+  rhythmicContrast: 0.9116143509745598
+purpose: []
